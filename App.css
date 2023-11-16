@@ -1,0 +1,77 @@
+div{
+    background-color: rgb(200, 189, 245);
+    font-weight: 500;
+}
+
+.bor{
+    border: 1px solid black;
+    border-collapse: collapse;
+    background-color: rgb(195, 181, 77);
+}
+
+.bor1{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+.bor2{
+    border: 1px solid black;
+    border-collapse: collapse;
+    background-color: rgb(230, 151, 230);
+}
+
+.bor3{
+    border: 1px solid black;
+    border-collapse: collapse;
+    background-color: rgb(139, 139, 223);
+}
+
+.bor4{
+    border: 1px solid black;
+    border-collapse: collapse;
+    background-color: rgb(15, 176, 239)
+}
+
+table{
+    border: 3px solid black;
+}
+
+.custom1{
+    border: none;
+}
+
+.custom2{
+    border: 2px solid black;
+    border-radius: 1px;
+}
+
+.flex{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 5px;
+}
+
+td, th{
+    text-align: center;
+    width: 90px;
+}
+
+th{
+    background-color: rgb(30, 30, 186);
+    color: white;
+}
+
+.special{
+    font-size: small;
+    background-color: rgb(225, 78, 78);
+    font-weight: 500;
+}
+
+.align{
+    display: flex;
+    flex-direction: column;
+    gap: 50px;
+    align-items: center;
+    justify-content: center;
+}
